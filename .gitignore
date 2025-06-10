@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment created by uv
+.venv/
+
+# Log files
+*.log
+output.log
+deployment_run_latest.log
+
+# IDE / Editor specific files (optional, uncomment if needed)
+# .vscode/
+# .idea/
