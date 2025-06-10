@@ -1,6 +1,7 @@
 ---
 title: "Qwen3-32B-AWQ 高效部署：基于 vLLM 的深度实践与优化"
 date: 2025-06-10T20:45:00+08:00
+draft: false
 tags: ["LLM", "Qwen", "Qwen3", "vLLM", "Docker", "GPU", "AWQ", "部署", "AI"]
 summary: "本文详细介绍了如何使用 vLLM 高效部署 Qwen3-32B-AWQ 量化模型，实现 32K 上下文窗口、OpenAI 兼容 API，并禁用思考模式。通过对 Docker 及 vLLM 参数的精细调优，最大化模型在多 GPU 环境下的推理性能。"
 ---
